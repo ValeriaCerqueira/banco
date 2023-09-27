@@ -1,9 +1,10 @@
 {
-    "posts": [
+    "posts": 
+    [
       {
         "id": 1,
         "title": "5 Motivos para adotar um Sistema de Cobrança Recorrente",
         "Contente": "Saiba os 5 motivos..."
       }
-      ]
+    ]
 }
