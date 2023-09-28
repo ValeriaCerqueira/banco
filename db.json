@@ -59,7 +59,7 @@
         {
           "id": 1,
           "content": "some comment",
-          "Status": "1", 
+          "Status": 1, 
           "create_time": 13,
           "author": "autor",
           "email": "teste@teste.com.br",
@@ -68,7 +68,7 @@
         {
           "id": 2,
           "content": "some comment",
-          "Status": "1", 
+          "Status": 1, 
           "create_time": 13,
           "author": "autor",
           "email": "teste@teste.com.br",
