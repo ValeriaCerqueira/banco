@@ -1,5 +1,5 @@
 {
-    "posts": 
+    "post": 
     [
       {
         "id": 1,
@@ -52,5 +52,28 @@
       	"author_id": "1"
       }
 
+    ],
+    "comment":
+    [
+      [
+        {
+          "id": 1,
+          "content": "some comment",
+          "Status": "1", 
+          "create_time": 13,
+          "author": "autor",
+          "email": "teste@teste.com.br",
+          "url": "www.teste.com.br"
+        },
+        {
+          "id": 2,
+          "content": "some comment",
+          "Status": "1", 
+          "create_time": 13,
+          "author": "autor",
+          "email": "teste@teste.com.br",
+          "url": "www.teste.com.br"
+        }
+      ]
     ]
 }
